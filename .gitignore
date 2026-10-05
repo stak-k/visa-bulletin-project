@@ -222,3 +222,4 @@ __marimo__/
 data/raw_pdfs/
 .venv/
 .DS_Store
+.ipynb_checkpoints/
