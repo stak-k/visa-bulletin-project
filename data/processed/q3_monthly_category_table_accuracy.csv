@@ -1,0 +1,241 @@
+predicted_month,visa_category,table_type,sum,count,mean,accuracy_percent
+2024-10-31,F1,Dates for Filing,4,5,0.8,80.0
+2024-10-31,F1,Final Action,4,5,0.8,80.0
+2024-10-31,F2A,Dates for Filing,0,5,0.0,0.0
+2024-10-31,F2A,Final Action,0,5,0.0,0.0
+2024-10-31,F2B,Dates for Filing,4,5,0.8,80.0
+2024-10-31,F2B,Final Action,4,5,0.8,80.0
+2024-10-31,F3,Dates for Filing,1,5,0.2,20.0
+2024-10-31,F3,Final Action,4,5,0.8,80.0
+2024-10-31,F4,Dates for Filing,4,5,0.8,80.0
+2024-10-31,F4,Final Action,3,5,0.6,60.0
+2024-11-30,F1,Dates for Filing,4,5,0.8,80.0
+2024-11-30,F1,Final Action,5,5,1.0,100.0
+2024-11-30,F2A,Dates for Filing,0,5,0.0,0.0
+2024-11-30,F2A,Final Action,5,5,1.0,100.0
+2024-11-30,F2B,Dates for Filing,5,5,1.0,100.0
+2024-11-30,F2B,Final Action,5,5,1.0,100.0
+2024-11-30,F3,Dates for Filing,4,5,0.8,80.0
+2024-11-30,F3,Final Action,2,5,0.4,40.0
+2024-11-30,F4,Dates for Filing,4,5,0.8,80.0
+2024-11-30,F4,Final Action,5,5,1.0,100.0
+2024-12-31,F1,Dates for Filing,5,5,1.0,100.0
+2024-12-31,F1,Final Action,5,5,1.0,100.0
+2024-12-31,F2A,Dates for Filing,5,5,1.0,100.0
+2024-12-31,F2A,Final Action,0,5,0.0,0.0
+2024-12-31,F2B,Dates for Filing,4,5,0.8,80.0
+2024-12-31,F2B,Final Action,4,5,0.8,80.0
+2024-12-31,F3,Dates for Filing,2,5,0.4,40.0
+2024-12-31,F3,Final Action,1,5,0.2,20.0
+2024-12-31,F4,Dates for Filing,3,5,0.6,60.0
+2024-12-31,F4,Final Action,3,5,0.6,60.0
+2025-01-31,F1,Dates for Filing,5,5,1.0,100.0
+2025-01-31,F1,Final Action,1,5,0.2,20.0
+2025-01-31,F2A,Dates for Filing,5,5,1.0,100.0
+2025-01-31,F2A,Final Action,4,5,0.8,80.0
+2025-01-31,F2B,Dates for Filing,4,5,0.8,80.0
+2025-01-31,F2B,Final Action,2,5,0.4,40.0
+2025-01-31,F3,Dates for Filing,2,5,0.4,40.0
+2025-01-31,F3,Final Action,0,5,0.0,0.0
+2025-01-31,F4,Dates for Filing,3,5,0.6,60.0
+2025-01-31,F4,Final Action,3,5,0.6,60.0
+2025-02-28,F1,Dates for Filing,5,5,1.0,100.0
+2025-02-28,F1,Final Action,1,5,0.2,20.0
+2025-02-28,F2A,Dates for Filing,5,5,1.0,100.0
+2025-02-28,F2A,Final Action,4,5,0.8,80.0
+2025-02-28,F2B,Dates for Filing,4,5,0.8,80.0
+2025-02-28,F2B,Final Action,2,5,0.4,40.0
+2025-02-28,F3,Dates for Filing,2,5,0.4,40.0
+2025-02-28,F3,Final Action,0,5,0.0,0.0
+2025-02-28,F4,Dates for Filing,3,5,0.6,60.0
+2025-02-28,F4,Final Action,3,5,0.6,60.0
+2025-03-31,F1,Dates for Filing,5,5,1.0,100.0
+2025-03-31,F1,Final Action,5,5,1.0,100.0
+2025-03-31,F2A,Dates for Filing,5,5,1.0,100.0
+2025-03-31,F2A,Final Action,5,5,1.0,100.0
+2025-03-31,F2B,Dates for Filing,5,5,1.0,100.0
+2025-03-31,F2B,Final Action,5,5,1.0,100.0
+2025-03-31,F3,Dates for Filing,5,5,1.0,100.0
+2025-03-31,F3,Final Action,4,5,0.8,80.0
+2025-03-31,F4,Dates for Filing,5,5,1.0,100.0
+2025-03-31,F4,Final Action,4,5,0.8,80.0
+2025-04-30,F1,Dates for Filing,4,5,0.8,80.0
+2025-04-30,F1,Final Action,0,5,0.0,0.0
+2025-04-30,F2A,Dates for Filing,0,5,0.0,0.0
+2025-04-30,F2A,Final Action,5,5,1.0,100.0
+2025-04-30,F2B,Dates for Filing,4,5,0.8,80.0
+2025-04-30,F2B,Final Action,0,5,0.0,0.0
+2025-04-30,F3,Dates for Filing,4,5,0.8,80.0
+2025-04-30,F3,Final Action,1,5,0.2,20.0
+2025-04-30,F4,Dates for Filing,2,5,0.4,40.0
+2025-04-30,F4,Final Action,3,5,0.6,60.0
+2025-05-31,F1,Dates for Filing,4,5,0.8,80.0
+2025-05-31,F1,Final Action,1,5,0.2,20.0
+2025-05-31,F2A,Dates for Filing,5,5,1.0,100.0
+2025-05-31,F2A,Final Action,5,5,1.0,100.0
+2025-05-31,F2B,Dates for Filing,4,5,0.8,80.0
+2025-05-31,F2B,Final Action,1,5,0.2,20.0
+2025-05-31,F3,Dates for Filing,4,5,0.8,80.0
+2025-05-31,F3,Final Action,1,5,0.2,20.0
+2025-05-31,F4,Dates for Filing,4,5,0.8,80.0
+2025-05-31,F4,Final Action,1,5,0.2,20.0
+2025-06-30,F1,Dates for Filing,5,5,1.0,100.0
+2025-06-30,F1,Final Action,1,5,0.2,20.0
+2025-06-30,F2A,Dates for Filing,0,5,0.0,0.0
+2025-06-30,F2A,Final Action,5,5,1.0,100.0
+2025-06-30,F2B,Dates for Filing,5,5,1.0,100.0
+2025-06-30,F2B,Final Action,1,5,0.2,20.0
+2025-06-30,F3,Dates for Filing,5,5,1.0,100.0
+2025-06-30,F3,Final Action,1,5,0.2,20.0
+2025-06-30,F4,Dates for Filing,2,5,0.4,40.0
+2025-06-30,F4,Final Action,2,5,0.4,40.0
+2025-07-31,F1,Dates for Filing,4,5,0.8,80.0
+2025-07-31,F1,Final Action,5,5,1.0,100.0
+2025-07-31,F2A,Dates for Filing,0,5,0.0,0.0
+2025-07-31,F2A,Final Action,0,5,0.0,0.0
+2025-07-31,F2B,Dates for Filing,4,5,0.8,80.0
+2025-07-31,F2B,Final Action,3,5,0.6,60.0
+2025-07-31,F3,Dates for Filing,4,5,0.8,80.0
+2025-07-31,F3,Final Action,3,5,0.6,60.0
+2025-07-31,F4,Dates for Filing,2,5,0.4,40.0
+2025-07-31,F4,Final Action,3,5,0.6,60.0
+2025-08-31,F1,Dates for Filing,4,5,0.8,80.0
+2025-08-31,F1,Final Action,2,5,0.4,40.0
+2025-08-31,F2A,Dates for Filing,5,5,1.0,100.0
+2025-08-31,F2A,Final Action,0,5,0.0,0.0
+2025-08-31,F2B,Dates for Filing,4,5,0.8,80.0
+2025-08-31,F2B,Final Action,0,5,0.0,0.0
+2025-08-31,F3,Dates for Filing,4,5,0.8,80.0
+2025-08-31,F3,Final Action,0,5,0.0,0.0
+2025-08-31,F4,Dates for Filing,5,5,1.0,100.0
+2025-08-31,F4,Final Action,4,5,0.8,80.0
+2025-09-30,F1,Dates for Filing,5,5,1.0,100.0
+2025-09-30,F1,Final Action,5,5,1.0,100.0
+2025-09-30,F2A,Dates for Filing,5,5,1.0,100.0
+2025-09-30,F2A,Final Action,5,5,1.0,100.0
+2025-09-30,F2B,Dates for Filing,5,5,1.0,100.0
+2025-09-30,F2B,Final Action,3,5,0.6,60.0
+2025-09-30,F3,Dates for Filing,4,5,0.8,80.0
+2025-09-30,F3,Final Action,4,5,0.8,80.0
+2025-09-30,F4,Dates for Filing,3,5,0.6,60.0
+2025-09-30,F4,Final Action,4,5,0.8,80.0
+2025-10-31,F1,Dates for Filing,4,5,0.8,80.0
+2025-10-31,F1,Final Action,0,5,0.0,0.0
+2025-10-31,F2A,Dates for Filing,5,5,1.0,100.0
+2025-10-31,F2A,Final Action,0,5,0.0,0.0
+2025-10-31,F2B,Dates for Filing,4,5,0.8,80.0
+2025-10-31,F2B,Final Action,2,5,0.4,40.0
+2025-10-31,F3,Dates for Filing,5,5,1.0,100.0
+2025-10-31,F3,Final Action,1,5,0.2,20.0
+2025-10-31,F4,Dates for Filing,2,5,0.4,40.0
+2025-10-31,F4,Final Action,1,5,0.2,20.0
+2025-11-30,F1,Dates for Filing,5,5,1.0,100.0
+2025-11-30,F1,Final Action,0,5,0.0,0.0
+2025-11-30,F2A,Dates for Filing,5,5,1.0,100.0
+2025-11-30,F2A,Final Action,0,5,0.0,0.0
+2025-11-30,F2B,Dates for Filing,2,5,0.4,40.0
+2025-11-30,F2B,Final Action,3,5,0.6,60.0
+2025-11-30,F3,Dates for Filing,4,5,0.8,80.0
+2025-11-30,F3,Final Action,1,5,0.2,20.0
+2025-11-30,F4,Dates for Filing,2,5,0.4,40.0
+2025-11-30,F4,Final Action,1,5,0.2,20.0
+2025-12-31,F1,Dates for Filing,4,5,0.8,80.0
+2025-12-31,F1,Final Action,4,5,0.8,80.0
+2025-12-31,F2A,Dates for Filing,5,5,1.0,100.0
+2025-12-31,F2A,Final Action,5,5,1.0,100.0
+2025-12-31,F2B,Dates for Filing,1,5,0.2,20.0
+2025-12-31,F2B,Final Action,0,5,0.0,0.0
+2025-12-31,F3,Dates for Filing,3,5,0.6,60.0
+2025-12-31,F3,Final Action,3,5,0.6,60.0
+2025-12-31,F4,Dates for Filing,5,5,1.0,100.0
+2025-12-31,F4,Final Action,4,5,0.8,80.0
+2026-01-31,F1,Dates for Filing,4,5,0.8,80.0
+2026-01-31,F1,Final Action,4,5,0.8,80.0
+2026-01-31,F2A,Dates for Filing,5,5,1.0,100.0
+2026-01-31,F2A,Final Action,5,5,1.0,100.0
+2026-01-31,F2B,Dates for Filing,1,5,0.2,20.0
+2026-01-31,F2B,Final Action,5,5,1.0,100.0
+2026-01-31,F3,Dates for Filing,4,5,0.8,80.0
+2026-01-31,F3,Final Action,5,5,1.0,100.0
+2026-01-31,F4,Dates for Filing,4,5,0.8,80.0
+2026-01-31,F4,Final Action,5,5,1.0,100.0
+2026-02-28,F1,Dates for Filing,5,5,1.0,100.0
+2026-02-28,F1,Final Action,4,5,0.8,80.0
+2026-02-28,F2A,Dates for Filing,5,5,1.0,100.0
+2026-02-28,F2A,Final Action,5,5,1.0,100.0
+2026-02-28,F2B,Dates for Filing,2,5,0.4,40.0
+2026-02-28,F2B,Final Action,4,5,0.8,80.0
+2026-02-28,F3,Dates for Filing,4,5,0.8,80.0
+2026-02-28,F3,Final Action,4,5,0.8,80.0
+2026-02-28,F4,Dates for Filing,4,5,0.8,80.0
+2026-02-28,F4,Final Action,4,5,0.8,80.0
+2026-03-31,F1,Dates for Filing,4,5,0.8,80.0
+2026-03-31,F1,Final Action,4,5,0.8,80.0
+2026-03-31,F2A,Dates for Filing,5,5,1.0,100.0
+2026-03-31,F2A,Final Action,5,5,1.0,100.0
+2026-03-31,F2B,Dates for Filing,4,5,0.8,80.0
+2026-03-31,F2B,Final Action,4,5,0.8,80.0
+2026-03-31,F3,Dates for Filing,4,5,0.8,80.0
+2026-03-31,F3,Final Action,5,5,1.0,100.0
+2026-03-31,F4,Dates for Filing,5,5,1.0,100.0
+2026-03-31,F4,Final Action,4,5,0.8,80.0
+2026-04-30,F1,Dates for Filing,1,5,0.2,20.0
+2026-04-30,F1,Final Action,0,5,0.0,0.0
+2026-04-30,F2A,Dates for Filing,5,5,1.0,100.0
+2026-04-30,F2A,Final Action,5,5,1.0,100.0
+2026-04-30,F2B,Dates for Filing,1,5,0.2,20.0
+2026-04-30,F2B,Final Action,1,5,0.2,20.0
+2026-04-30,F3,Dates for Filing,2,5,0.4,40.0
+2026-04-30,F3,Final Action,1,5,0.2,20.0
+2026-04-30,F4,Dates for Filing,2,5,0.4,40.0
+2026-04-30,F4,Final Action,3,5,0.6,60.0
+2026-05-31,F1,Dates for Filing,5,5,1.0,100.0
+2026-05-31,F1,Final Action,4,5,0.8,80.0
+2026-05-31,F2A,Dates for Filing,5,5,1.0,100.0
+2026-05-31,F2A,Final Action,0,5,0.0,0.0
+2026-05-31,F2B,Dates for Filing,4,5,0.8,80.0
+2026-05-31,F2B,Final Action,1,5,0.2,20.0
+2026-05-31,F3,Dates for Filing,4,5,0.8,80.0
+2026-05-31,F3,Final Action,5,5,1.0,100.0
+2026-05-31,F4,Dates for Filing,4,5,0.8,80.0
+2026-05-31,F4,Final Action,5,5,1.0,100.0
+2026-06-30,F1,Dates for Filing,1,5,0.2,20.0
+2026-06-30,F1,Final Action,2,5,0.4,40.0
+2026-06-30,F2A,Dates for Filing,5,5,1.0,100.0
+2026-06-30,F2A,Final Action,5,5,1.0,100.0
+2026-06-30,F2B,Dates for Filing,5,5,1.0,100.0
+2026-06-30,F2B,Final Action,2,5,0.4,40.0
+2026-06-30,F3,Dates for Filing,0,5,0.0,0.0
+2026-06-30,F3,Final Action,1,5,0.2,20.0
+2026-06-30,F4,Dates for Filing,5,5,1.0,100.0
+2026-06-30,F4,Final Action,4,5,0.8,80.0
+2026-07-31,F1,Dates for Filing,2,5,0.4,40.0
+2026-07-31,F1,Final Action,1,5,0.2,20.0
+2026-07-31,F2A,Dates for Filing,5,5,1.0,100.0
+2026-07-31,F2A,Final Action,0,5,0.0,0.0
+2026-07-31,F2B,Dates for Filing,5,5,1.0,100.0
+2026-07-31,F2B,Final Action,4,5,0.8,80.0
+2026-07-31,F3,Dates for Filing,5,5,1.0,100.0
+2026-07-31,F3,Final Action,0,5,0.0,0.0
+2026-07-31,F4,Dates for Filing,5,5,1.0,100.0
+2026-07-31,F4,Final Action,4,5,0.8,80.0
+2026-08-31,F1,Dates for Filing,4,5,0.8,80.0
+2026-08-31,F1,Final Action,4,5,0.8,80.0
+2026-08-31,F2A,Dates for Filing,5,5,1.0,100.0
+2026-08-31,F2A,Final Action,0,5,0.0,0.0
+2026-08-31,F2B,Dates for Filing,5,5,1.0,100.0
+2026-08-31,F2B,Final Action,5,5,1.0,100.0
+2026-08-31,F3,Dates for Filing,2,5,0.4,40.0
+2026-08-31,F3,Final Action,4,5,0.8,80.0
+2026-08-31,F4,Dates for Filing,5,5,1.0,100.0
+2026-08-31,F4,Final Action,4,5,0.8,80.0
+2026-09-30,F1,Dates for Filing,4,5,0.8,80.0
+2026-09-30,F1,Final Action,5,5,1.0,100.0
+2026-09-30,F2A,Dates for Filing,5,5,1.0,100.0
+2026-09-30,F2A,Final Action,5,5,1.0,100.0
+2026-09-30,F2B,Dates for Filing,5,5,1.0,100.0
+2026-09-30,F2B,Final Action,4,5,0.8,80.0
+2026-09-30,F3,Dates for Filing,5,5,1.0,100.0
+2026-09-30,F3,Final Action,4,5,0.8,80.0
+2026-09-30,F4,Dates for Filing,5,5,1.0,100.0
+2026-09-30,F4,Final Action,4,5,0.8,80.0

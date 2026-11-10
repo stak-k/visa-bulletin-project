@@ -1,0 +1,1201 @@
+predicted_month,visa_category,chargeability_area,table_type,next_month_movement,predicted_next_month_movement,correct_prediction
+2024-10-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2024-10-31,F1,China,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F1,China,Final Action,No Movement,No Movement,True
+2024-10-31,F1,India,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F1,India,Final Action,No Movement,No Movement,True
+2024-10-31,F1,Mexico,Dates for Filing,Advance,No Movement,False
+2024-10-31,F1,Mexico,Final Action,Advance,No Movement,False
+2024-10-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F1,Philippines,Final Action,No Movement,No Movement,True
+2024-10-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2024-10-31,F2A,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2024-10-31,F2A,China,Dates for Filing,Advance,No Movement,False
+2024-10-31,F2A,China,Final Action,Advance,No Movement,False
+2024-10-31,F2A,India,Dates for Filing,Advance,No Movement,False
+2024-10-31,F2A,India,Final Action,Advance,No Movement,False
+2024-10-31,F2A,Mexico,Dates for Filing,Advance,No Movement,False
+2024-10-31,F2A,Mexico,Final Action,Advance,No Movement,False
+2024-10-31,F2A,Philippines,Dates for Filing,Advance,No Movement,False
+2024-10-31,F2A,Philippines,Final Action,Advance,No Movement,False
+2024-10-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2024-10-31,F2B,China,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F2B,China,Final Action,No Movement,No Movement,True
+2024-10-31,F2B,India,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F2B,India,Final Action,No Movement,No Movement,True
+2024-10-31,F2B,Mexico,Dates for Filing,Advance,No Movement,False
+2024-10-31,F2B,Mexico,Final Action,Advance,No Movement,False
+2024-10-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F2B,Philippines,Final Action,No Movement,No Movement,True
+2024-10-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2024-10-31,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2024-10-31,F3,China,Dates for Filing,Advance,No Movement,False
+2024-10-31,F3,China,Final Action,No Movement,No Movement,True
+2024-10-31,F3,India,Dates for Filing,Advance,No Movement,False
+2024-10-31,F3,India,Final Action,No Movement,No Movement,True
+2024-10-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F3,Mexico,Final Action,Advance,No Movement,False
+2024-10-31,F3,Philippines,Dates for Filing,Advance,No Movement,False
+2024-10-31,F3,Philippines,Final Action,No Movement,No Movement,True
+2024-10-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2024-10-31,F4,China,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F4,China,Final Action,No Movement,No Movement,True
+2024-10-31,F4,India,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F4,India,Final Action,Advance,No Movement,False
+2024-10-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2024-10-31,F4,Mexico,Final Action,Advance,No Movement,False
+2024-10-31,F4,Philippines,Dates for Filing,Advance,No Movement,False
+2024-10-31,F4,Philippines,Final Action,No Movement,No Movement,True
+2024-11-30,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2024-11-30,F1,China,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F1,China,Final Action,No Movement,No Movement,True
+2024-11-30,F1,India,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F1,India,Final Action,No Movement,No Movement,True
+2024-11-30,F1,Mexico,Dates for Filing,No Movement,Advance,False
+2024-11-30,F1,Mexico,Final Action,Advance,Advance,True
+2024-11-30,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F1,Philippines,Final Action,No Movement,No Movement,True
+2024-11-30,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,Advance,False
+2024-11-30,F2A,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2024-11-30,F2A,China,Dates for Filing,No Movement,Advance,False
+2024-11-30,F2A,China,Final Action,Advance,Advance,True
+2024-11-30,F2A,India,Dates for Filing,No Movement,Advance,False
+2024-11-30,F2A,India,Final Action,Advance,Advance,True
+2024-11-30,F2A,Mexico,Dates for Filing,No Movement,Advance,False
+2024-11-30,F2A,Mexico,Final Action,Advance,Advance,True
+2024-11-30,F2A,Philippines,Dates for Filing,No Movement,Advance,False
+2024-11-30,F2A,Philippines,Final Action,Advance,Advance,True
+2024-11-30,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2024-11-30,F2B,China,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F2B,China,Final Action,No Movement,No Movement,True
+2024-11-30,F2B,India,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F2B,India,Final Action,No Movement,No Movement,True
+2024-11-30,F2B,Mexico,Dates for Filing,Advance,Advance,True
+2024-11-30,F2B,Mexico,Final Action,Advance,Advance,True
+2024-11-30,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F2B,Philippines,Final Action,No Movement,No Movement,True
+2024-11-30,F3,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2024-11-30,F3,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2024-11-30,F3,China,Dates for Filing,Advance,Advance,True
+2024-11-30,F3,China,Final Action,Advance,No Movement,False
+2024-11-30,F3,India,Dates for Filing,Advance,Advance,True
+2024-11-30,F3,India,Final Action,Advance,No Movement,False
+2024-11-30,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F3,Mexico,Final Action,Advance,Advance,True
+2024-11-30,F3,Philippines,Dates for Filing,No Movement,Advance,False
+2024-11-30,F3,Philippines,Final Action,No Movement,No Movement,True
+2024-11-30,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2024-11-30,F4,China,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F4,China,Final Action,No Movement,No Movement,True
+2024-11-30,F4,India,Dates for Filing,Advance,No Movement,False
+2024-11-30,F4,India,Final Action,Advance,Advance,True
+2024-11-30,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2024-11-30,F4,Mexico,Final Action,Advance,Advance,True
+2024-11-30,F4,Philippines,Dates for Filing,Advance,Advance,True
+2024-11-30,F4,Philippines,Final Action,No Movement,No Movement,True
+2024-12-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2024-12-31,F1,China,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F1,China,Final Action,No Movement,No Movement,True
+2024-12-31,F1,India,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F1,India,Final Action,No Movement,No Movement,True
+2024-12-31,F1,Mexico,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F1,Mexico,Final Action,No Movement,No Movement,True
+2024-12-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F1,Philippines,Final Action,No Movement,No Movement,True
+2024-12-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2024-12-31,F2A,China,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F2A,China,Final Action,No Movement,Advance,False
+2024-12-31,F2A,India,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F2A,India,Final Action,No Movement,Advance,False
+2024-12-31,F2A,Mexico,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F2A,Mexico,Final Action,No Movement,Advance,False
+2024-12-31,F2A,Philippines,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F2A,Philippines,Final Action,No Movement,Advance,False
+2024-12-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2024-12-31,F2B,China,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F2B,China,Final Action,No Movement,No Movement,True
+2024-12-31,F2B,India,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F2B,India,Final Action,No Movement,No Movement,True
+2024-12-31,F2B,Mexico,Dates for Filing,No Movement,Advance,False
+2024-12-31,F2B,Mexico,Final Action,No Movement,Advance,False
+2024-12-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F2B,Philippines,Final Action,No Movement,No Movement,True
+2024-12-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,Advance,False
+2024-12-31,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2024-12-31,F3,China,Dates for Filing,No Movement,Advance,False
+2024-12-31,F3,China,Final Action,No Movement,Advance,False
+2024-12-31,F3,India,Dates for Filing,No Movement,Advance,False
+2024-12-31,F3,India,Final Action,No Movement,Advance,False
+2024-12-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F3,Mexico,Final Action,No Movement,Advance,False
+2024-12-31,F3,Philippines,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F3,Philippines,Final Action,No Movement,No Movement,True
+2024-12-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2024-12-31,F4,China,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F4,China,Final Action,No Movement,No Movement,True
+2024-12-31,F4,India,Dates for Filing,No Movement,Advance,False
+2024-12-31,F4,India,Final Action,No Movement,Advance,False
+2024-12-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2024-12-31,F4,Mexico,Final Action,No Movement,Advance,False
+2024-12-31,F4,Philippines,Dates for Filing,No Movement,Advance,False
+2024-12-31,F4,Philippines,Final Action,No Movement,No Movement,True
+2025-01-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F1,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-01-31,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F1,China,Final Action,Advance,No Movement,False
+2025-01-31,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F1,India,Final Action,Advance,No Movement,False
+2025-01-31,F1,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F1,Mexico,Final Action,No Movement,No Movement,True
+2025-01-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F1,Philippines,Final Action,Advance,No Movement,False
+2025-01-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-01-31,F2A,China,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F2A,China,Final Action,No Movement,No Movement,True
+2025-01-31,F2A,India,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F2A,India,Final Action,No Movement,No Movement,True
+2025-01-31,F2A,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F2A,Mexico,Final Action,Advance,No Movement,False
+2025-01-31,F2A,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F2A,Philippines,Final Action,No Movement,No Movement,True
+2025-01-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F2B,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-01-31,F2B,China,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F2B,China,Final Action,Advance,No Movement,False
+2025-01-31,F2B,India,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F2B,India,Final Action,Advance,No Movement,False
+2025-01-31,F2B,Mexico,Dates for Filing,Advance,No Movement,False
+2025-01-31,F2B,Mexico,Final Action,No Movement,No Movement,True
+2025-01-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F2B,Philippines,Final Action,No Movement,No Movement,True
+2025-01-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2025-01-31,F3,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-01-31,F3,China,Dates for Filing,Advance,No Movement,False
+2025-01-31,F3,China,Final Action,Advance,No Movement,False
+2025-01-31,F3,India,Dates for Filing,Advance,No Movement,False
+2025-01-31,F3,India,Final Action,Advance,No Movement,False
+2025-01-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F3,Mexico,Final Action,Advance,No Movement,False
+2025-01-31,F3,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F3,Philippines,Final Action,Advance,No Movement,False
+2025-01-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-01-31,F4,China,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F4,China,Final Action,No Movement,No Movement,True
+2025-01-31,F4,India,Dates for Filing,Advance,No Movement,False
+2025-01-31,F4,India,Final Action,Advance,No Movement,False
+2025-01-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-01-31,F4,Mexico,Final Action,No Movement,No Movement,True
+2025-01-31,F4,Philippines,Dates for Filing,Advance,No Movement,False
+2025-01-31,F4,Philippines,Final Action,Advance,No Movement,False
+2025-02-28,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-02-28,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F1,China,Final Action,No Movement,Advance,False
+2025-02-28,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F1,India,Final Action,No Movement,Advance,False
+2025-02-28,F1,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F1,Mexico,Final Action,No Movement,No Movement,True
+2025-02-28,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F1,Philippines,Final Action,No Movement,Advance,False
+2025-02-28,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-02-28,F2A,China,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F2A,China,Final Action,No Movement,No Movement,True
+2025-02-28,F2A,India,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F2A,India,Final Action,No Movement,No Movement,True
+2025-02-28,F2A,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F2A,Mexico,Final Action,No Movement,Advance,False
+2025-02-28,F2A,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F2A,Philippines,Final Action,No Movement,No Movement,True
+2025-02-28,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-02-28,F2B,China,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F2B,China,Final Action,No Movement,Advance,False
+2025-02-28,F2B,India,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F2B,India,Final Action,No Movement,Advance,False
+2025-02-28,F2B,Mexico,Dates for Filing,No Movement,Advance,False
+2025-02-28,F2B,Mexico,Final Action,No Movement,No Movement,True
+2025-02-28,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F2B,Philippines,Final Action,No Movement,No Movement,True
+2025-02-28,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,Advance,False
+2025-02-28,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-02-28,F3,China,Dates for Filing,No Movement,Advance,False
+2025-02-28,F3,China,Final Action,No Movement,Advance,False
+2025-02-28,F3,India,Dates for Filing,No Movement,Advance,False
+2025-02-28,F3,India,Final Action,No Movement,Advance,False
+2025-02-28,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F3,Mexico,Final Action,No Movement,Advance,False
+2025-02-28,F3,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F3,Philippines,Final Action,No Movement,Advance,False
+2025-02-28,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-02-28,F4,China,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F4,China,Final Action,No Movement,No Movement,True
+2025-02-28,F4,India,Dates for Filing,No Movement,Advance,False
+2025-02-28,F4,India,Final Action,No Movement,Advance,False
+2025-02-28,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-02-28,F4,Mexico,Final Action,No Movement,No Movement,True
+2025-02-28,F4,Philippines,Dates for Filing,No Movement,Advance,False
+2025-02-28,F4,Philippines,Final Action,No Movement,Advance,False
+2025-03-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-03-31,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F1,China,Final Action,No Movement,No Movement,True
+2025-03-31,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F1,India,Final Action,No Movement,No Movement,True
+2025-03-31,F1,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F1,Mexico,Final Action,No Movement,No Movement,True
+2025-03-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F1,Philippines,Final Action,No Movement,No Movement,True
+2025-03-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-03-31,F2A,China,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F2A,China,Final Action,No Movement,No Movement,True
+2025-03-31,F2A,India,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F2A,India,Final Action,No Movement,No Movement,True
+2025-03-31,F2A,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F2A,Mexico,Final Action,No Movement,No Movement,True
+2025-03-31,F2A,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F2A,Philippines,Final Action,No Movement,No Movement,True
+2025-03-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-03-31,F2B,China,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F2B,China,Final Action,No Movement,No Movement,True
+2025-03-31,F2B,India,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F2B,India,Final Action,No Movement,No Movement,True
+2025-03-31,F2B,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F2B,Mexico,Final Action,No Movement,No Movement,True
+2025-03-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F2B,Philippines,Final Action,No Movement,No Movement,True
+2025-03-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-03-31,F3,China,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F3,China,Final Action,No Movement,No Movement,True
+2025-03-31,F3,India,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F3,India,Final Action,No Movement,No Movement,True
+2025-03-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F3,Mexico,Final Action,No Movement,No Movement,True
+2025-03-31,F3,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F3,Philippines,Final Action,Advance,No Movement,False
+2025-03-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-03-31,F4,China,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F4,China,Final Action,No Movement,No Movement,True
+2025-03-31,F4,India,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F4,India,Final Action,No Movement,No Movement,True
+2025-03-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F4,Mexico,Final Action,No Movement,No Movement,True
+2025-03-31,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-03-31,F4,Philippines,Final Action,Advance,No Movement,False
+2025-04-30,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F1,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-04-30,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F1,China,Final Action,Advance,No Movement,False
+2025-04-30,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F1,India,Final Action,Advance,No Movement,False
+2025-04-30,F1,Mexico,Dates for Filing,Advance,No Movement,False
+2025-04-30,F1,Mexico,Final Action,Advance,No Movement,False
+2025-04-30,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F1,Philippines,Final Action,Advance,No Movement,False
+2025-04-30,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2025-04-30,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-04-30,F2A,China,Dates for Filing,Advance,No Movement,False
+2025-04-30,F2A,China,Final Action,No Movement,No Movement,True
+2025-04-30,F2A,India,Dates for Filing,Advance,No Movement,False
+2025-04-30,F2A,India,Final Action,No Movement,No Movement,True
+2025-04-30,F2A,Mexico,Dates for Filing,Advance,No Movement,False
+2025-04-30,F2A,Mexico,Final Action,No Movement,No Movement,True
+2025-04-30,F2A,Philippines,Dates for Filing,Advance,No Movement,False
+2025-04-30,F2A,Philippines,Final Action,No Movement,No Movement,True
+2025-04-30,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F2B,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-04-30,F2B,China,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F2B,China,Final Action,Advance,No Movement,False
+2025-04-30,F2B,India,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F2B,India,Final Action,Advance,No Movement,False
+2025-04-30,F2B,Mexico,Dates for Filing,Advance,No Movement,False
+2025-04-30,F2B,Mexico,Final Action,Advance,No Movement,False
+2025-04-30,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F2B,Philippines,Final Action,Advance,No Movement,False
+2025-04-30,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F3,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-04-30,F3,China,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F3,China,Final Action,Advance,No Movement,False
+2025-04-30,F3,India,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F3,India,Final Action,Advance,No Movement,False
+2025-04-30,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F3,Mexico,Final Action,Advance,No Movement,False
+2025-04-30,F3,Philippines,Dates for Filing,Advance,No Movement,False
+2025-04-30,F3,Philippines,Final Action,Advance,Advance,True
+2025-04-30,F4,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2025-04-30,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-04-30,F4,China,Dates for Filing,Advance,No Movement,False
+2025-04-30,F4,China,Final Action,No Movement,No Movement,True
+2025-04-30,F4,India,Dates for Filing,Advance,No Movement,False
+2025-04-30,F4,India,Final Action,Advance,No Movement,False
+2025-04-30,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F4,Mexico,Final Action,Advance,No Movement,False
+2025-04-30,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-04-30,F4,Philippines,Final Action,Advance,Advance,True
+2025-05-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-05-31,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F1,China,Final Action,No Movement,Advance,False
+2025-05-31,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F1,India,Final Action,No Movement,Advance,False
+2025-05-31,F1,Mexico,Dates for Filing,No Movement,Advance,False
+2025-05-31,F1,Mexico,Final Action,Advance,Advance,True
+2025-05-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F1,Philippines,Final Action,No Movement,Advance,False
+2025-05-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2025-05-31,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-05-31,F2A,China,Dates for Filing,Advance,Advance,True
+2025-05-31,F2A,China,Final Action,No Movement,No Movement,True
+2025-05-31,F2A,India,Dates for Filing,Advance,Advance,True
+2025-05-31,F2A,India,Final Action,No Movement,No Movement,True
+2025-05-31,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2025-05-31,F2A,Mexico,Final Action,No Movement,No Movement,True
+2025-05-31,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2025-05-31,F2A,Philippines,Final Action,No Movement,No Movement,True
+2025-05-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-05-31,F2B,China,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F2B,China,Final Action,No Movement,Advance,False
+2025-05-31,F2B,India,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F2B,India,Final Action,No Movement,Advance,False
+2025-05-31,F2B,Mexico,Dates for Filing,No Movement,Advance,False
+2025-05-31,F2B,Mexico,Final Action,No Movement,Advance,False
+2025-05-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F2B,Philippines,Final Action,Advance,Advance,True
+2025-05-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-05-31,F3,China,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F3,China,Final Action,No Movement,Advance,False
+2025-05-31,F3,India,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F3,India,Final Action,No Movement,Advance,False
+2025-05-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F3,Mexico,Final Action,No Movement,Advance,False
+2025-05-31,F3,Philippines,Dates for Filing,No Movement,Advance,False
+2025-05-31,F3,Philippines,Final Action,Advance,Advance,True
+2025-05-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2025-05-31,F4,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-05-31,F4,China,Dates for Filing,Advance,Advance,True
+2025-05-31,F4,China,Final Action,Advance,No Movement,False
+2025-05-31,F4,India,Dates for Filing,No Movement,Advance,False
+2025-05-31,F4,India,Final Action,No Movement,Advance,False
+2025-05-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F4,Mexico,Final Action,No Movement,Advance,False
+2025-05-31,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-05-31,F4,Philippines,Final Action,Advance,Advance,True
+2025-06-30,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F1,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-06-30,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F1,China,Final Action,Advance,No Movement,False
+2025-06-30,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F1,India,Final Action,Advance,No Movement,False
+2025-06-30,F1,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F1,Mexico,Final Action,No Movement,Advance,False
+2025-06-30,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F1,Philippines,Final Action,No Movement,No Movement,True
+2025-06-30,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,Advance,False
+2025-06-30,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-06-30,F2A,China,Dates for Filing,No Movement,Advance,False
+2025-06-30,F2A,China,Final Action,No Movement,No Movement,True
+2025-06-30,F2A,India,Dates for Filing,No Movement,Advance,False
+2025-06-30,F2A,India,Final Action,No Movement,No Movement,True
+2025-06-30,F2A,Mexico,Dates for Filing,No Movement,Advance,False
+2025-06-30,F2A,Mexico,Final Action,No Movement,No Movement,True
+2025-06-30,F2A,Philippines,Dates for Filing,No Movement,Advance,False
+2025-06-30,F2A,Philippines,Final Action,No Movement,No Movement,True
+2025-06-30,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F2B,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-06-30,F2B,China,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F2B,China,Final Action,Advance,No Movement,False
+2025-06-30,F2B,India,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F2B,India,Final Action,Advance,No Movement,False
+2025-06-30,F2B,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F2B,Mexico,Final Action,No Movement,No Movement,True
+2025-06-30,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F2B,Philippines,Final Action,No Movement,Advance,False
+2025-06-30,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F3,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-06-30,F3,China,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F3,China,Final Action,Advance,No Movement,False
+2025-06-30,F3,India,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F3,India,Final Action,Advance,No Movement,False
+2025-06-30,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F3,Mexico,Final Action,No Movement,No Movement,True
+2025-06-30,F3,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F3,Philippines,Final Action,No Movement,Advance,False
+2025-06-30,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,Advance,False
+2025-06-30,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-06-30,F4,China,Dates for Filing,No Movement,Advance,False
+2025-06-30,F4,China,Final Action,No Movement,Advance,False
+2025-06-30,F4,India,Dates for Filing,Advance,No Movement,False
+2025-06-30,F4,India,Final Action,No Movement,No Movement,True
+2025-06-30,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F4,Mexico,Final Action,No Movement,No Movement,True
+2025-06-30,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-06-30,F4,Philippines,Final Action,No Movement,Advance,False
+2025-07-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F1,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2025-07-31,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F1,China,Final Action,Advance,Advance,True
+2025-07-31,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F1,India,Final Action,Advance,Advance,True
+2025-07-31,F1,Mexico,Dates for Filing,Advance,No Movement,False
+2025-07-31,F1,Mexico,Final Action,No Movement,No Movement,True
+2025-07-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F1,Philippines,Final Action,No Movement,No Movement,True
+2025-07-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2025-07-31,F2A,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-07-31,F2A,China,Dates for Filing,Advance,No Movement,False
+2025-07-31,F2A,China,Final Action,Advance,No Movement,False
+2025-07-31,F2A,India,Dates for Filing,Advance,No Movement,False
+2025-07-31,F2A,India,Final Action,Advance,No Movement,False
+2025-07-31,F2A,Mexico,Dates for Filing,Advance,No Movement,False
+2025-07-31,F2A,Mexico,Final Action,Advance,No Movement,False
+2025-07-31,F2A,Philippines,Dates for Filing,Advance,No Movement,False
+2025-07-31,F2A,Philippines,Final Action,Advance,No Movement,False
+2025-07-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F2B,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2025-07-31,F2B,China,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F2B,China,Final Action,Advance,Advance,True
+2025-07-31,F2B,India,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F2B,India,Final Action,Advance,Advance,True
+2025-07-31,F2B,Mexico,Dates for Filing,Advance,No Movement,False
+2025-07-31,F2B,Mexico,Final Action,Advance,No Movement,False
+2025-07-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F2B,Philippines,Final Action,Advance,No Movement,False
+2025-07-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F3,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2025-07-31,F3,China,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F3,China,Final Action,Advance,Advance,True
+2025-07-31,F3,India,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F3,India,Final Action,Advance,Advance,True
+2025-07-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F3,Mexico,Final Action,Advance,No Movement,False
+2025-07-31,F3,Philippines,Dates for Filing,Advance,No Movement,False
+2025-07-31,F3,Philippines,Final Action,Advance,No Movement,False
+2025-07-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2025-07-31,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-07-31,F4,China,Dates for Filing,Advance,No Movement,False
+2025-07-31,F4,China,Final Action,No Movement,No Movement,True
+2025-07-31,F4,India,Dates for Filing,No Movement,Advance,False
+2025-07-31,F4,India,Final Action,Advance,No Movement,False
+2025-07-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F4,Mexico,Final Action,No Movement,No Movement,True
+2025-07-31,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-07-31,F4,Philippines,Final Action,Advance,No Movement,False
+2025-08-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-08-31,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F1,China,Final Action,No Movement,Advance,False
+2025-08-31,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F1,India,Final Action,No Movement,Advance,False
+2025-08-31,F1,Mexico,Dates for Filing,No Movement,Advance,False
+2025-08-31,F1,Mexico,Final Action,No Movement,No Movement,True
+2025-08-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F1,Philippines,Final Action,No Movement,No Movement,True
+2025-08-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2025-08-31,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-08-31,F2A,China,Dates for Filing,Advance,Advance,True
+2025-08-31,F2A,China,Final Action,No Movement,Advance,False
+2025-08-31,F2A,India,Dates for Filing,Advance,Advance,True
+2025-08-31,F2A,India,Final Action,No Movement,Advance,False
+2025-08-31,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2025-08-31,F2A,Mexico,Final Action,No Movement,Advance,False
+2025-08-31,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2025-08-31,F2A,Philippines,Final Action,No Movement,Advance,False
+2025-08-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-08-31,F2B,China,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F2B,China,Final Action,No Movement,Advance,False
+2025-08-31,F2B,India,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F2B,India,Final Action,No Movement,Advance,False
+2025-08-31,F2B,Mexico,Dates for Filing,No Movement,Advance,False
+2025-08-31,F2B,Mexico,Final Action,No Movement,Advance,False
+2025-08-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F2B,Philippines,Final Action,No Movement,Advance,False
+2025-08-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-08-31,F3,China,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F3,China,Final Action,No Movement,Advance,False
+2025-08-31,F3,India,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F3,India,Final Action,No Movement,Advance,False
+2025-08-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F3,Mexico,Final Action,No Movement,Advance,False
+2025-08-31,F3,Philippines,Dates for Filing,No Movement,Advance,False
+2025-08-31,F3,Philippines,Final Action,No Movement,Advance,False
+2025-08-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2025-08-31,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-08-31,F4,China,Dates for Filing,Advance,Advance,True
+2025-08-31,F4,China,Final Action,No Movement,No Movement,True
+2025-08-31,F4,India,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F4,India,Final Action,Advance,Advance,True
+2025-08-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F4,Mexico,Final Action,No Movement,No Movement,True
+2025-08-31,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-08-31,F4,Philippines,Final Action,No Movement,Advance,False
+2025-09-30,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-09-30,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F1,China,Final Action,No Movement,No Movement,True
+2025-09-30,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F1,India,Final Action,No Movement,No Movement,True
+2025-09-30,F1,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F1,Mexico,Final Action,No Movement,No Movement,True
+2025-09-30,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F1,Philippines,Final Action,No Movement,No Movement,True
+2025-09-30,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2025-09-30,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-09-30,F2A,China,Dates for Filing,Advance,Advance,True
+2025-09-30,F2A,China,Final Action,No Movement,No Movement,True
+2025-09-30,F2A,India,Dates for Filing,Advance,Advance,True
+2025-09-30,F2A,India,Final Action,No Movement,No Movement,True
+2025-09-30,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2025-09-30,F2A,Mexico,Final Action,No Movement,No Movement,True
+2025-09-30,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2025-09-30,F2A,Philippines,Final Action,No Movement,No Movement,True
+2025-09-30,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-09-30,F2B,China,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F2B,China,Final Action,No Movement,No Movement,True
+2025-09-30,F2B,India,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F2B,India,Final Action,No Movement,No Movement,True
+2025-09-30,F2B,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F2B,Mexico,Final Action,Advance,No Movement,False
+2025-09-30,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F2B,Philippines,Final Action,Advance,No Movement,False
+2025-09-30,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-09-30,F3,China,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F3,China,Final Action,No Movement,No Movement,True
+2025-09-30,F3,India,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F3,India,Final Action,No Movement,No Movement,True
+2025-09-30,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F3,Mexico,Final Action,No Movement,No Movement,True
+2025-09-30,F3,Philippines,Dates for Filing,Advance,No Movement,False
+2025-09-30,F3,Philippines,Final Action,Advance,No Movement,False
+2025-09-30,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,Advance,False
+2025-09-30,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-09-30,F4,China,Dates for Filing,No Movement,Advance,False
+2025-09-30,F4,China,Final Action,No Movement,No Movement,True
+2025-09-30,F4,India,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F4,India,Final Action,No Movement,Advance,False
+2025-09-30,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F4,Mexico,Final Action,No Movement,No Movement,True
+2025-09-30,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-09-30,F4,Philippines,Final Action,No Movement,No Movement,True
+2025-10-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F1,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-10-31,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F1,China,Final Action,Advance,No Movement,False
+2025-10-31,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F1,India,Final Action,Advance,No Movement,False
+2025-10-31,F1,Mexico,Dates for Filing,Advance,No Movement,False
+2025-10-31,F1,Mexico,Final Action,Advance,No Movement,False
+2025-10-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F1,Philippines,Final Action,Advance,No Movement,False
+2025-10-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2025-10-31,F2A,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-10-31,F2A,China,Dates for Filing,Advance,Advance,True
+2025-10-31,F2A,China,Final Action,Advance,No Movement,False
+2025-10-31,F2A,India,Dates for Filing,Advance,Advance,True
+2025-10-31,F2A,India,Final Action,Advance,No Movement,False
+2025-10-31,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2025-10-31,F2A,Mexico,Final Action,Advance,No Movement,False
+2025-10-31,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2025-10-31,F2A,Philippines,Final Action,Advance,No Movement,False
+2025-10-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F2B,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-10-31,F2B,China,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F2B,China,Final Action,Advance,No Movement,False
+2025-10-31,F2B,India,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F2B,India,Final Action,Advance,No Movement,False
+2025-10-31,F2B,Mexico,Dates for Filing,Advance,No Movement,False
+2025-10-31,F2B,Mexico,Final Action,Advance,Advance,True
+2025-10-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F2B,Philippines,Final Action,Advance,Advance,True
+2025-10-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F3,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-10-31,F3,China,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F3,China,Final Action,Advance,No Movement,False
+2025-10-31,F3,India,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F3,India,Final Action,Advance,No Movement,False
+2025-10-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F3,Mexico,Final Action,Advance,No Movement,False
+2025-10-31,F3,Philippines,Dates for Filing,Advance,Advance,True
+2025-10-31,F3,Philippines,Final Action,Advance,Advance,True
+2025-10-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2025-10-31,F4,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2025-10-31,F4,China,Dates for Filing,Advance,No Movement,False
+2025-10-31,F4,China,Final Action,Advance,No Movement,False
+2025-10-31,F4,India,Dates for Filing,Advance,No Movement,False
+2025-10-31,F4,India,Final Action,No Movement,No Movement,True
+2025-10-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F4,Mexico,Final Action,Advance,No Movement,False
+2025-10-31,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-10-31,F4,Philippines,Final Action,Advance,No Movement,False
+2025-11-30,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-11-30,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-11-30,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-11-30,F1,China,Final Action,No Movement,Advance,False
+2025-11-30,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-11-30,F1,India,Final Action,No Movement,Advance,False
+2025-11-30,F1,Mexico,Dates for Filing,Advance,Advance,True
+2025-11-30,F1,Mexico,Final Action,No Movement,Advance,False
+2025-11-30,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-11-30,F1,Philippines,Final Action,No Movement,Advance,False
+2025-11-30,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2025-11-30,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-11-30,F2A,China,Dates for Filing,Advance,Advance,True
+2025-11-30,F2A,China,Final Action,No Movement,Advance,False
+2025-11-30,F2A,India,Dates for Filing,Advance,Advance,True
+2025-11-30,F2A,India,Final Action,No Movement,Advance,False
+2025-11-30,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2025-11-30,F2A,Mexico,Final Action,No Movement,Advance,False
+2025-11-30,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2025-11-30,F2A,Philippines,Final Action,No Movement,Advance,False
+2025-11-30,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2025-11-30,F2B,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2025-11-30,F2B,China,Dates for Filing,Advance,No Movement,False
+2025-11-30,F2B,China,Final Action,Advance,Advance,True
+2025-11-30,F2B,India,Dates for Filing,Advance,No Movement,False
+2025-11-30,F2B,India,Final Action,Advance,Advance,True
+2025-11-30,F2B,Mexico,Dates for Filing,Advance,Advance,True
+2025-11-30,F2B,Mexico,Final Action,No Movement,Advance,False
+2025-11-30,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-11-30,F2B,Philippines,Final Action,No Movement,Advance,False
+2025-11-30,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-11-30,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-11-30,F3,China,Dates for Filing,No Movement,No Movement,True
+2025-11-30,F3,China,Final Action,No Movement,Advance,False
+2025-11-30,F3,India,Dates for Filing,No Movement,No Movement,True
+2025-11-30,F3,India,Final Action,No Movement,Advance,False
+2025-11-30,F3,Mexico,Dates for Filing,Advance,No Movement,False
+2025-11-30,F3,Mexico,Final Action,Advance,Advance,True
+2025-11-30,F3,Philippines,Dates for Filing,Advance,Advance,True
+2025-11-30,F3,Philippines,Final Action,No Movement,Advance,False
+2025-11-30,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,Advance,False
+2025-11-30,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-11-30,F4,China,Dates for Filing,No Movement,Advance,False
+2025-11-30,F4,China,Final Action,No Movement,Advance,False
+2025-11-30,F4,India,Dates for Filing,No Movement,Advance,False
+2025-11-30,F4,India,Final Action,No Movement,No Movement,True
+2025-11-30,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-11-30,F4,Mexico,Final Action,No Movement,Advance,False
+2025-11-30,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-11-30,F4,Philippines,Final Action,No Movement,Advance,False
+2025-12-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-12-31,F1,China,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F1,China,Final Action,No Movement,No Movement,True
+2025-12-31,F1,India,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F1,India,Final Action,No Movement,No Movement,True
+2025-12-31,F1,Mexico,Dates for Filing,No Movement,Advance,False
+2025-12-31,F1,Mexico,Final Action,Advance,No Movement,False
+2025-12-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F1,Philippines,Final Action,No Movement,No Movement,True
+2025-12-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2025-12-31,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-12-31,F2A,China,Dates for Filing,Advance,Advance,True
+2025-12-31,F2A,China,Final Action,No Movement,No Movement,True
+2025-12-31,F2A,India,Dates for Filing,Advance,Advance,True
+2025-12-31,F2A,India,Final Action,No Movement,No Movement,True
+2025-12-31,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2025-12-31,F2A,Mexico,Final Action,No Movement,No Movement,True
+2025-12-31,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2025-12-31,F2A,Philippines,Final Action,No Movement,No Movement,True
+2025-12-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,Advance,False
+2025-12-31,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2025-12-31,F2B,China,Dates for Filing,No Movement,Advance,False
+2025-12-31,F2B,China,Final Action,No Movement,Advance,False
+2025-12-31,F2B,India,Dates for Filing,No Movement,Advance,False
+2025-12-31,F2B,India,Final Action,No Movement,Advance,False
+2025-12-31,F2B,Mexico,Dates for Filing,No Movement,Advance,False
+2025-12-31,F2B,Mexico,Final Action,Advance,No Movement,False
+2025-12-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F2B,Philippines,Final Action,Advance,No Movement,False
+2025-12-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-12-31,F3,China,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F3,China,Final Action,No Movement,No Movement,True
+2025-12-31,F3,India,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F3,India,Final Action,No Movement,No Movement,True
+2025-12-31,F3,Mexico,Dates for Filing,No Movement,Advance,False
+2025-12-31,F3,Mexico,Final Action,No Movement,Advance,False
+2025-12-31,F3,Philippines,Dates for Filing,No Movement,Advance,False
+2025-12-31,F3,Philippines,Final Action,Advance,No Movement,False
+2025-12-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2025-12-31,F4,China,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F4,China,Final Action,No Movement,No Movement,True
+2025-12-31,F4,India,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F4,India,Final Action,No Movement,No Movement,True
+2025-12-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F4,Mexico,Final Action,No Movement,No Movement,True
+2025-12-31,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2025-12-31,F4,Philippines,Final Action,Advance,No Movement,False
+2026-01-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-01-31,F1,China,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F1,China,Final Action,No Movement,No Movement,True
+2026-01-31,F1,India,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F1,India,Final Action,No Movement,No Movement,True
+2026-01-31,F1,Mexico,Dates for Filing,Advance,No Movement,False
+2026-01-31,F1,Mexico,Final Action,Advance,Advance,True
+2026-01-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F1,Philippines,Final Action,Advance,No Movement,False
+2026-01-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-01-31,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-01-31,F2A,China,Dates for Filing,Advance,Advance,True
+2026-01-31,F2A,China,Final Action,No Movement,No Movement,True
+2026-01-31,F2A,India,Dates for Filing,Advance,Advance,True
+2026-01-31,F2A,India,Final Action,No Movement,No Movement,True
+2026-01-31,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2026-01-31,F2A,Mexico,Final Action,No Movement,No Movement,True
+2026-01-31,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2026-01-31,F2A,Philippines,Final Action,No Movement,No Movement,True
+2026-01-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2026-01-31,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-01-31,F2B,China,Dates for Filing,Advance,No Movement,False
+2026-01-31,F2B,China,Final Action,No Movement,No Movement,True
+2026-01-31,F2B,India,Dates for Filing,Advance,No Movement,False
+2026-01-31,F2B,India,Final Action,No Movement,No Movement,True
+2026-01-31,F2B,Mexico,Dates for Filing,Advance,No Movement,False
+2026-01-31,F2B,Mexico,Final Action,Advance,Advance,True
+2026-01-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F2B,Philippines,Final Action,Advance,Advance,True
+2026-01-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-01-31,F3,China,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F3,China,Final Action,No Movement,No Movement,True
+2026-01-31,F3,India,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F3,India,Final Action,No Movement,No Movement,True
+2026-01-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F3,Mexico,Final Action,No Movement,No Movement,True
+2026-01-31,F3,Philippines,Dates for Filing,Advance,No Movement,False
+2026-01-31,F3,Philippines,Final Action,Advance,Advance,True
+2026-01-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-01-31,F4,China,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F4,China,Final Action,No Movement,No Movement,True
+2026-01-31,F4,India,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F4,India,Final Action,No Movement,No Movement,True
+2026-01-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-01-31,F4,Mexico,Final Action,No Movement,No Movement,True
+2026-01-31,F4,Philippines,Dates for Filing,Advance,No Movement,False
+2026-01-31,F4,Philippines,Final Action,Advance,Advance,True
+2026-02-28,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-02-28,F1,China,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F1,China,Final Action,No Movement,No Movement,True
+2026-02-28,F1,India,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F1,India,Final Action,No Movement,No Movement,True
+2026-02-28,F1,Mexico,Dates for Filing,Advance,Advance,True
+2026-02-28,F1,Mexico,Final Action,Advance,Advance,True
+2026-02-28,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F1,Philippines,Final Action,No Movement,Advance,False
+2026-02-28,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-02-28,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-02-28,F2A,China,Dates for Filing,Advance,Advance,True
+2026-02-28,F2A,China,Final Action,No Movement,No Movement,True
+2026-02-28,F2A,India,Dates for Filing,Advance,Advance,True
+2026-02-28,F2A,India,Final Action,No Movement,No Movement,True
+2026-02-28,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2026-02-28,F2A,Mexico,Final Action,No Movement,No Movement,True
+2026-02-28,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2026-02-28,F2A,Philippines,Final Action,No Movement,No Movement,True
+2026-02-28,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,Advance,False
+2026-02-28,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-02-28,F2B,China,Dates for Filing,No Movement,Advance,False
+2026-02-28,F2B,China,Final Action,No Movement,No Movement,True
+2026-02-28,F2B,India,Dates for Filing,No Movement,Advance,False
+2026-02-28,F2B,India,Final Action,No Movement,No Movement,True
+2026-02-28,F2B,Mexico,Dates for Filing,Advance,Advance,True
+2026-02-28,F2B,Mexico,Final Action,Advance,Advance,True
+2026-02-28,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F2B,Philippines,Final Action,No Movement,Advance,False
+2026-02-28,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-02-28,F3,China,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F3,China,Final Action,No Movement,No Movement,True
+2026-02-28,F3,India,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F3,India,Final Action,No Movement,No Movement,True
+2026-02-28,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F3,Mexico,Final Action,No Movement,No Movement,True
+2026-02-28,F3,Philippines,Dates for Filing,No Movement,Advance,False
+2026-02-28,F3,Philippines,Final Action,No Movement,Advance,False
+2026-02-28,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-02-28,F4,China,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F4,China,Final Action,No Movement,No Movement,True
+2026-02-28,F4,India,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F4,India,Final Action,No Movement,No Movement,True
+2026-02-28,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-02-28,F4,Mexico,Final Action,No Movement,No Movement,True
+2026-02-28,F4,Philippines,Dates for Filing,No Movement,Advance,False
+2026-02-28,F4,Philippines,Final Action,No Movement,Advance,False
+2026-03-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-03-31,F1,China,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F1,China,Final Action,No Movement,No Movement,True
+2026-03-31,F1,India,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F1,India,Final Action,No Movement,No Movement,True
+2026-03-31,F1,Mexico,Dates for Filing,No Movement,Advance,False
+2026-03-31,F1,Mexico,Final Action,No Movement,Advance,False
+2026-03-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F1,Philippines,Final Action,No Movement,No Movement,True
+2026-03-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-03-31,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-03-31,F2A,China,Dates for Filing,Advance,Advance,True
+2026-03-31,F2A,China,Final Action,No Movement,No Movement,True
+2026-03-31,F2A,India,Dates for Filing,Advance,Advance,True
+2026-03-31,F2A,India,Final Action,No Movement,No Movement,True
+2026-03-31,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2026-03-31,F2A,Mexico,Final Action,No Movement,No Movement,True
+2026-03-31,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2026-03-31,F2A,Philippines,Final Action,No Movement,No Movement,True
+2026-03-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-03-31,F2B,China,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F2B,China,Final Action,No Movement,No Movement,True
+2026-03-31,F2B,India,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F2B,India,Final Action,No Movement,No Movement,True
+2026-03-31,F2B,Mexico,Dates for Filing,No Movement,Advance,False
+2026-03-31,F2B,Mexico,Final Action,No Movement,Advance,False
+2026-03-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F2B,Philippines,Final Action,No Movement,No Movement,True
+2026-03-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-03-31,F3,China,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F3,China,Final Action,No Movement,No Movement,True
+2026-03-31,F3,India,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F3,India,Final Action,No Movement,No Movement,True
+2026-03-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F3,Mexico,Final Action,No Movement,No Movement,True
+2026-03-31,F3,Philippines,Dates for Filing,Advance,No Movement,False
+2026-03-31,F3,Philippines,Final Action,No Movement,No Movement,True
+2026-03-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F4,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-03-31,F4,China,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F4,China,Final Action,No Movement,No Movement,True
+2026-03-31,F4,India,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F4,India,Final Action,No Movement,No Movement,True
+2026-03-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F4,Mexico,Final Action,No Movement,No Movement,True
+2026-03-31,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-03-31,F4,Philippines,Final Action,Advance,No Movement,False
+2026-04-30,F1,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2026-04-30,F1,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2026-04-30,F1,China,Dates for Filing,Advance,No Movement,False
+2026-04-30,F1,China,Final Action,Advance,No Movement,False
+2026-04-30,F1,India,Dates for Filing,Advance,No Movement,False
+2026-04-30,F1,India,Final Action,Advance,No Movement,False
+2026-04-30,F1,Mexico,Dates for Filing,Advance,No Movement,False
+2026-04-30,F1,Mexico,Final Action,Advance,No Movement,False
+2026-04-30,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-04-30,F1,Philippines,Final Action,Advance,No Movement,False
+2026-04-30,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-04-30,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,No Movement,True
+2026-04-30,F2A,China,Dates for Filing,Advance,Advance,True
+2026-04-30,F2A,China,Final Action,No Movement,No Movement,True
+2026-04-30,F2A,India,Dates for Filing,Advance,Advance,True
+2026-04-30,F2A,India,Final Action,No Movement,No Movement,True
+2026-04-30,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2026-04-30,F2A,Mexico,Final Action,No Movement,No Movement,True
+2026-04-30,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2026-04-30,F2A,Philippines,Final Action,No Movement,No Movement,True
+2026-04-30,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2026-04-30,F2B,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2026-04-30,F2B,China,Dates for Filing,Advance,No Movement,False
+2026-04-30,F2B,China,Final Action,Advance,No Movement,False
+2026-04-30,F2B,India,Dates for Filing,Advance,No Movement,False
+2026-04-30,F2B,India,Final Action,Advance,No Movement,False
+2026-04-30,F2B,Mexico,Dates for Filing,Advance,No Movement,False
+2026-04-30,F2B,Mexico,Final Action,No Movement,No Movement,True
+2026-04-30,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-04-30,F2B,Philippines,Final Action,Advance,No Movement,False
+2026-04-30,F3,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2026-04-30,F3,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2026-04-30,F3,China,Dates for Filing,Advance,No Movement,False
+2026-04-30,F3,China,Final Action,Advance,No Movement,False
+2026-04-30,F3,India,Dates for Filing,Advance,No Movement,False
+2026-04-30,F3,India,Final Action,Advance,No Movement,False
+2026-04-30,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-04-30,F3,Mexico,Final Action,No Movement,No Movement,True
+2026-04-30,F3,Philippines,Dates for Filing,Advance,Advance,True
+2026-04-30,F3,Philippines,Final Action,Advance,No Movement,False
+2026-04-30,F4,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2026-04-30,F4,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2026-04-30,F4,China,Dates for Filing,Advance,No Movement,False
+2026-04-30,F4,China,Final Action,Advance,No Movement,False
+2026-04-30,F4,India,Dates for Filing,No Movement,No Movement,True
+2026-04-30,F4,India,Final Action,No Movement,No Movement,True
+2026-04-30,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-04-30,F4,Mexico,Final Action,No Movement,No Movement,True
+2026-04-30,F4,Philippines,Dates for Filing,Advance,No Movement,False
+2026-04-30,F4,Philippines,Final Action,Advance,Advance,True
+2026-05-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-05-31,F1,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-05-31,F1,China,Dates for Filing,Advance,Advance,True
+2026-05-31,F1,China,Final Action,Advance,Advance,True
+2026-05-31,F1,India,Dates for Filing,Advance,Advance,True
+2026-05-31,F1,India,Final Action,Advance,Advance,True
+2026-05-31,F1,Mexico,Dates for Filing,Advance,Advance,True
+2026-05-31,F1,Mexico,Final Action,Advance,Advance,True
+2026-05-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-05-31,F1,Philippines,Final Action,No Movement,Advance,False
+2026-05-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-05-31,F2A,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2026-05-31,F2A,China,Dates for Filing,Advance,Advance,True
+2026-05-31,F2A,China,Final Action,Advance,No Movement,False
+2026-05-31,F2A,India,Dates for Filing,Advance,Advance,True
+2026-05-31,F2A,India,Final Action,Advance,No Movement,False
+2026-05-31,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2026-05-31,F2A,Mexico,Final Action,Advance,No Movement,False
+2026-05-31,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2026-05-31,F2A,Philippines,Final Action,Advance,No Movement,False
+2026-05-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-05-31,F2B,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2026-05-31,F2B,China,Dates for Filing,Advance,Advance,True
+2026-05-31,F2B,China,Final Action,No Movement,Advance,False
+2026-05-31,F2B,India,Dates for Filing,Advance,Advance,True
+2026-05-31,F2B,India,Final Action,No Movement,Advance,False
+2026-05-31,F2B,Mexico,Dates for Filing,No Movement,Advance,False
+2026-05-31,F2B,Mexico,Final Action,No Movement,No Movement,True
+2026-05-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-05-31,F2B,Philippines,Final Action,No Movement,Advance,False
+2026-05-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-05-31,F3,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-05-31,F3,China,Dates for Filing,Advance,Advance,True
+2026-05-31,F3,China,Final Action,Advance,Advance,True
+2026-05-31,F3,India,Dates for Filing,Advance,Advance,True
+2026-05-31,F3,India,Final Action,Advance,Advance,True
+2026-05-31,F3,Mexico,Dates for Filing,Advance,No Movement,False
+2026-05-31,F3,Mexico,Final Action,No Movement,No Movement,True
+2026-05-31,F3,Philippines,Dates for Filing,Advance,Advance,True
+2026-05-31,F3,Philippines,Final Action,Advance,Advance,True
+2026-05-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-05-31,F4,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-05-31,F4,China,Dates for Filing,Advance,Advance,True
+2026-05-31,F4,China,Final Action,Advance,Advance,True
+2026-05-31,F4,India,Dates for Filing,No Movement,No Movement,True
+2026-05-31,F4,India,Final Action,No Movement,No Movement,True
+2026-05-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-05-31,F4,Mexico,Final Action,No Movement,No Movement,True
+2026-05-31,F4,Philippines,Dates for Filing,No Movement,Advance,False
+2026-05-31,F4,Philippines,Final Action,Advance,Advance,True
+2026-06-30,F1,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,Advance,False
+2026-06-30,F1,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2026-06-30,F1,China,Dates for Filing,No Movement,Advance,False
+2026-06-30,F1,China,Final Action,No Movement,Advance,False
+2026-06-30,F1,India,Dates for Filing,No Movement,Advance,False
+2026-06-30,F1,India,Final Action,No Movement,Advance,False
+2026-06-30,F1,Mexico,Dates for Filing,No Movement,Advance,False
+2026-06-30,F1,Mexico,Final Action,Advance,Advance,True
+2026-06-30,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-06-30,F1,Philippines,Final Action,No Movement,No Movement,True
+2026-06-30,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-06-30,F2A,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-06-30,F2A,China,Dates for Filing,Advance,Advance,True
+2026-06-30,F2A,China,Final Action,Advance,Advance,True
+2026-06-30,F2A,India,Dates for Filing,Advance,Advance,True
+2026-06-30,F2A,India,Final Action,Advance,Advance,True
+2026-06-30,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2026-06-30,F2A,Mexico,Final Action,Advance,Advance,True
+2026-06-30,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2026-06-30,F2A,Philippines,Final Action,Advance,Advance,True
+2026-06-30,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-06-30,F2B,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2026-06-30,F2B,China,Dates for Filing,Advance,Advance,True
+2026-06-30,F2B,China,Final Action,Advance,No Movement,False
+2026-06-30,F2B,India,Dates for Filing,Advance,Advance,True
+2026-06-30,F2B,India,Final Action,Advance,No Movement,False
+2026-06-30,F2B,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-06-30,F2B,Mexico,Final Action,No Movement,No Movement,True
+2026-06-30,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-06-30,F2B,Philippines,Final Action,No Movement,No Movement,True
+2026-06-30,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,Advance,False
+2026-06-30,F3,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2026-06-30,F3,China,Dates for Filing,No Movement,Advance,False
+2026-06-30,F3,China,Final Action,No Movement,Advance,False
+2026-06-30,F3,India,Dates for Filing,No Movement,Advance,False
+2026-06-30,F3,India,Final Action,No Movement,Advance,False
+2026-06-30,F3,Mexico,Dates for Filing,No Movement,Advance,False
+2026-06-30,F3,Mexico,Final Action,No Movement,No Movement,True
+2026-06-30,F3,Philippines,Dates for Filing,No Movement,Advance,False
+2026-06-30,F3,Philippines,Final Action,No Movement,Advance,False
+2026-06-30,F4,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-06-30,F4,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-06-30,F4,China,Dates for Filing,Advance,Advance,True
+2026-06-30,F4,China,Final Action,Advance,Advance,True
+2026-06-30,F4,India,Dates for Filing,No Movement,No Movement,True
+2026-06-30,F4,India,Final Action,No Movement,No Movement,True
+2026-06-30,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-06-30,F4,Mexico,Final Action,No Movement,No Movement,True
+2026-06-30,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-06-30,F4,Philippines,Final Action,No Movement,Advance,False
+2026-07-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2026-07-31,F1,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2026-07-31,F1,China,Dates for Filing,Advance,No Movement,False
+2026-07-31,F1,China,Final Action,Advance,No Movement,False
+2026-07-31,F1,India,Dates for Filing,Advance,No Movement,False
+2026-07-31,F1,India,Final Action,Advance,No Movement,False
+2026-07-31,F1,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F1,Mexico,Final Action,No Movement,Advance,False
+2026-07-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F1,Philippines,Final Action,No Movement,No Movement,True
+2026-07-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-07-31,F2A,All Chargeability Areas Except Those Listed,Final Action,No Movement,Advance,False
+2026-07-31,F2A,China,Dates for Filing,Advance,Advance,True
+2026-07-31,F2A,China,Final Action,No Movement,Advance,False
+2026-07-31,F2A,India,Dates for Filing,Advance,Advance,True
+2026-07-31,F2A,India,Final Action,No Movement,Advance,False
+2026-07-31,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2026-07-31,F2A,Mexico,Final Action,No Movement,Advance,False
+2026-07-31,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2026-07-31,F2A,Philippines,Final Action,No Movement,Advance,False
+2026-07-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-07-31,F2B,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-07-31,F2B,China,Dates for Filing,Advance,Advance,True
+2026-07-31,F2B,China,Final Action,Advance,Advance,True
+2026-07-31,F2B,India,Dates for Filing,Advance,Advance,True
+2026-07-31,F2B,India,Final Action,Advance,Advance,True
+2026-07-31,F2B,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F2B,Mexico,Final Action,No Movement,No Movement,True
+2026-07-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F2B,Philippines,Final Action,Advance,No Movement,False
+2026-07-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F3,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2026-07-31,F3,China,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F3,China,Final Action,Advance,No Movement,False
+2026-07-31,F3,India,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F3,India,Final Action,Advance,No Movement,False
+2026-07-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F3,Mexico,Final Action,Advance,No Movement,False
+2026-07-31,F3,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F3,Philippines,Final Action,Advance,No Movement,False
+2026-07-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-07-31,F4,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-07-31,F4,China,Dates for Filing,Advance,Advance,True
+2026-07-31,F4,China,Final Action,Advance,Advance,True
+2026-07-31,F4,India,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F4,India,Final Action,No Movement,No Movement,True
+2026-07-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F4,Mexico,Final Action,No Movement,No Movement,True
+2026-07-31,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-07-31,F4,Philippines,Final Action,Advance,No Movement,False
+2026-08-31,F1,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-08-31,F1,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-08-31,F1,China,Dates for Filing,Advance,Advance,True
+2026-08-31,F1,China,Final Action,Advance,Advance,True
+2026-08-31,F1,India,Dates for Filing,Advance,Advance,True
+2026-08-31,F1,India,Final Action,Advance,Advance,True
+2026-08-31,F1,Mexico,Dates for Filing,Advance,No Movement,False
+2026-08-31,F1,Mexico,Final Action,Advance,No Movement,False
+2026-08-31,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-08-31,F1,Philippines,Final Action,No Movement,No Movement,True
+2026-08-31,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-08-31,F2A,All Chargeability Areas Except Those Listed,Final Action,Advance,No Movement,False
+2026-08-31,F2A,China,Dates for Filing,Advance,Advance,True
+2026-08-31,F2A,China,Final Action,Advance,No Movement,False
+2026-08-31,F2A,India,Dates for Filing,Advance,Advance,True
+2026-08-31,F2A,India,Final Action,Advance,No Movement,False
+2026-08-31,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2026-08-31,F2A,Mexico,Final Action,Advance,No Movement,False
+2026-08-31,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2026-08-31,F2A,Philippines,Final Action,Advance,No Movement,False
+2026-08-31,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-08-31,F2B,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-08-31,F2B,China,Dates for Filing,Advance,Advance,True
+2026-08-31,F2B,China,Final Action,Advance,Advance,True
+2026-08-31,F2B,India,Dates for Filing,Advance,Advance,True
+2026-08-31,F2B,India,Final Action,Advance,Advance,True
+2026-08-31,F2B,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-08-31,F2B,Mexico,Final Action,No Movement,No Movement,True
+2026-08-31,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-08-31,F2B,Philippines,Final Action,Advance,Advance,True
+2026-08-31,F3,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,No Movement,False
+2026-08-31,F3,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-08-31,F3,China,Dates for Filing,Advance,No Movement,False
+2026-08-31,F3,China,Final Action,Advance,Advance,True
+2026-08-31,F3,India,Dates for Filing,Advance,No Movement,False
+2026-08-31,F3,India,Final Action,Advance,Advance,True
+2026-08-31,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-08-31,F3,Mexico,Final Action,Advance,Advance,True
+2026-08-31,F3,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-08-31,F3,Philippines,Final Action,No Movement,Advance,False
+2026-08-31,F4,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-08-31,F4,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-08-31,F4,China,Dates for Filing,Advance,Advance,True
+2026-08-31,F4,China,Final Action,Advance,Advance,True
+2026-08-31,F4,India,Dates for Filing,No Movement,No Movement,True
+2026-08-31,F4,India,Final Action,No Movement,No Movement,True
+2026-08-31,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-08-31,F4,Mexico,Final Action,No Movement,No Movement,True
+2026-08-31,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-08-31,F4,Philippines,Final Action,No Movement,Advance,False
+2026-09-30,F1,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-09-30,F1,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-09-30,F1,China,Dates for Filing,Advance,Advance,True
+2026-09-30,F1,China,Final Action,Advance,Advance,True
+2026-09-30,F1,India,Dates for Filing,Advance,Advance,True
+2026-09-30,F1,India,Final Action,Advance,Advance,True
+2026-09-30,F1,Mexico,Dates for Filing,No Movement,Advance,False
+2026-09-30,F1,Mexico,Final Action,Advance,Advance,True
+2026-09-30,F1,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-09-30,F1,Philippines,Final Action,No Movement,No Movement,True
+2026-09-30,F2A,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-09-30,F2A,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-09-30,F2A,China,Dates for Filing,Advance,Advance,True
+2026-09-30,F2A,China,Final Action,Advance,Advance,True
+2026-09-30,F2A,India,Dates for Filing,Advance,Advance,True
+2026-09-30,F2A,India,Final Action,Advance,Advance,True
+2026-09-30,F2A,Mexico,Dates for Filing,Advance,Advance,True
+2026-09-30,F2A,Mexico,Final Action,Advance,Advance,True
+2026-09-30,F2A,Philippines,Dates for Filing,Advance,Advance,True
+2026-09-30,F2A,Philippines,Final Action,Advance,Advance,True
+2026-09-30,F2B,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-09-30,F2B,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-09-30,F2B,China,Dates for Filing,Advance,Advance,True
+2026-09-30,F2B,China,Final Action,Advance,Advance,True
+2026-09-30,F2B,India,Dates for Filing,Advance,Advance,True
+2026-09-30,F2B,India,Final Action,Advance,Advance,True
+2026-09-30,F2B,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-09-30,F2B,Mexico,Final Action,No Movement,No Movement,True
+2026-09-30,F2B,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-09-30,F2B,Philippines,Final Action,No Movement,Advance,False
+2026-09-30,F3,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-09-30,F3,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-09-30,F3,China,Dates for Filing,Advance,Advance,True
+2026-09-30,F3,China,Final Action,Advance,Advance,True
+2026-09-30,F3,India,Dates for Filing,Advance,Advance,True
+2026-09-30,F3,India,Final Action,Advance,Advance,True
+2026-09-30,F3,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-09-30,F3,Mexico,Final Action,No Movement,Advance,False
+2026-09-30,F3,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-09-30,F3,Philippines,Final Action,No Movement,No Movement,True
+2026-09-30,F4,All Chargeability Areas Except Those Listed,Dates for Filing,Advance,Advance,True
+2026-09-30,F4,All Chargeability Areas Except Those Listed,Final Action,Advance,Advance,True
+2026-09-30,F4,China,Dates for Filing,Advance,Advance,True
+2026-09-30,F4,China,Final Action,Advance,Advance,True
+2026-09-30,F4,India,Dates for Filing,No Movement,No Movement,True
+2026-09-30,F4,India,Final Action,No Movement,No Movement,True
+2026-09-30,F4,Mexico,Dates for Filing,No Movement,No Movement,True
+2026-09-30,F4,Mexico,Final Action,No Movement,No Movement,True
+2026-09-30,F4,Philippines,Dates for Filing,No Movement,No Movement,True
+2026-09-30,F4,Philippines,Final Action,Advance,No Movement,False
